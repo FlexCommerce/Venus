@@ -2,7 +2,7 @@
     "name":"venus",
     "thumbnail":"venus.png",
     "screenshot":"venus.png",
-    "templateType":"general",
+    "templateType":"standard",
     "pageTypes":["default","home"],
     "tags": {
         "en": ["Business", "Trade", "company", "health", "corporate", "beauty", "pink", "firm", "money", "simple"]        
